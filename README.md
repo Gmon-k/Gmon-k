@@ -1,5 +1,11 @@
 # 💫 About Me:
-Software Engineer with 6+ years building scalable backend systems, IoT data pipelines, and cloud infrastructure across industry and aerospace. Engineered distributed computing systems at ISRO for rocket propulsion simulation , reducing computational load by 46%. Built production IoT platforms at Bosch serving real-time device data at scale using Apache Kafka, AWS, and Docker/Kubernetes.<br> <br>Core expertise: Java · Python · C++ · AWS (Lambda, EC2, S3, Redshift, CloudWatch) · Apache Kafka · Spring Boot · React · Docker · Kubernetes<br> <br>MS in Computer Science, Northeastern University (Lead TA — Machine Learning & Algorithms). <br><br>AWS Certified Cloud Practitioner & Solutions Architect.<br> <br>Open to Software Engineer roles.
+Software Engineer with 6+ years of experience building scalable backend systems, IoT platforms, and cloud infrastructure across industry and aerospace domains. At ISRO, I engineered distributed computing solutions for rocket propulsion simulation, reducing computational load by 46% and improving performance at scale. At Bosch, I developed production-grade IoT systems handling real-time device data using Apache Kafka, AWS, and containerized microservices with Docker and Kubernetes.
+
+I specialize in designing reliable, high-performance systems using Java, Python, and C++, with a strong focus on cloud-native architecture and distributed systems. My experience spans AWS services (Lambda, EC2, S3, Redshift, CloudWatch), backend frameworks like Spring Boot, and modern frontend tools like React.
+
+Currently pursuing an MS in Computer Science at Northeastern University, where I serve as a Lead Teaching Assistant for Machine Learning and Algorithms. I’m AWS Certified (Cloud Practitioner & Solutions Architect) and passionate about building scalable, efficient, and impactful systems.
+
+Open to Software Engineer opportunities where I can contribute to building robust backend systems and cloud infrastructure.
 
 
 ## 🌐 Socials:
